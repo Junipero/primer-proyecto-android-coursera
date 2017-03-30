@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">PrimerProyectoAndroidCoursera</string>
+    <string name="app_name">Mi Primer Proyecto Android - Coursera</string>
+    <string name="mensaje_bienvenida">Bienvenido</string>
+    <string name="mensaje_boton">Entrar</string>
 </resources>
